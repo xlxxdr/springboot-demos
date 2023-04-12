@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>mock-server</module>
+        <module>actuator</module>
     </modules>
 
     <groupId>code.demos</groupId>
